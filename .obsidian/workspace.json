@@ -11,11 +11,9 @@
             "id": "226fda573e976120",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "A test file.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-10-02 20.44.12.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A test file.md",
+                "file": "Excalidraw/Drawing 2024-10-02 20.44.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A test file.md",
+                "file": "Excalidraw/Drawing 2024-10-02 20.44.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A test file.md"
+                "file": "Excalidraw/Drawing 2024-10-02 20.44.12.excalidraw.md"
               }
             }
           }
@@ -151,6 +149,8 @@
   "active": "226fda573e976120",
   "lastOpenFiles": [
     "A test file.md",
+    "Excalidraw/Drawing 2024-10-02 20.44.12.excalidraw.md",
+    "Excalidraw",
     "Untitled"
   ]
 }
